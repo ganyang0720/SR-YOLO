@@ -11,14 +11,7 @@ The data set is in YOLO format.
 
 SR-YOLO-Dataset includes pomegranate young fruits in different scenes. The data set contains 13,840 pictures, including 9,798 pictures in the training set and 4,042 pictures in the validation set.
 
-## Directory structure
-    ├── images           
-        ├── train           // Pictures contained in the training set
-        ├── val           // Pictures contained in the validation set
-    ├── labels
-        ├── train           // Labels corresponding to pictures in the training set
-        ├── val           // Labels corresponding to pictures in the validation set
-    ├── dataset.yaml          
+      
 
 ## How to use
 To train a network on the RS-YOLO-Dataset make sure that you download the code first from [yolov8](https://github.com/ultralytics/ultralytics). And then clone this repository to yolov8 folder and  train a yolov8 network with the commands below.
