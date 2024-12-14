@@ -7,7 +7,6 @@ This repository is built for:
 
 SR-YOLO-Dataset: A data set for target detection of strawberry
 
-The data set is in YOLO format.
 
 SR-YOLO-Dataset includes pomegranate young fruits in different scenes. The data set contains 13,840 pictures, including 9,798 pictures in the training set and 4,042 pictures in the validation set.
 
