@@ -19,18 +19,18 @@ To train a network on the RS-YOLO-Dataset make sure that you download the code f
 ```
 # Clone yolov8 repo and install requirements.txt
 git clone https://github.com/ultralytics/ultralytics  # clone
-cd yolov8
+cd yolo11
 pip install -r requirements.txt  # install
 ```
 
 ```
-# Clone this repository to yolov8 folder
+# Clone this repository to yolo11 folder
 git clone https://github.com/ganyang0720/SR-YOLO
 ```
 
 ```
-# Train yolov8
-yolo detect train data=RS-YOLO-Dataset/dataset.yaml model=yolov8n.yaml epochs=200 imgsz=640
+# Train yolo11
+yolo detect train data=RS-YOLO-Dataset/dataset.yaml model=yolo11n.yaml epochs=200 imgsz=640
 ```
 
 
