@@ -16,7 +16,7 @@ The SR-YOLO-Dataset includes more than 15,000 photos of strawberries of differen
 To train a network on the RS-YOLO-Dataset make sure that you download the code first from [yolo11](https://github.com/ultralytics/ultralytics). And then clone this repository to yolov8 folder and  train a yolo11 network with the commands below.
 
 ```
-# Clone yolov8 repo and install requirements.txt
+# Clone yolo11 repo and install requirements.txt
 git clone https://github.com/ultralytics/ultralytics  # clone
 cd yolo11
 pip install -r requirements.txt  # install
