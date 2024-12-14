@@ -5,7 +5,7 @@
 ## Introduction
 This repository is built for:
 
-SRYOLO-Dataset: A data set for target detection of strawberry
+SR-YOLO-Dataset: A data set for target detection of strawberry
 
 The data set is in YOLO format.
 
