@@ -21,7 +21,7 @@ SR-YOLO-Dataset includes pomegranate young fruits in different scenes. The data 
     ├── dataset.yaml          
 
 ## How to use
-To train a network on the PG-YOLO-Dataset make sure that you download the code first from [yolov8](https://github.com/ultralytics/ultralytics). And then clone this repository to yolov8 folder and  train a yolov8 network with the commands below.
+To train a network on the RS-YOLO-Dataset make sure that you download the code first from [yolov8](https://github.com/ultralytics/ultralytics). And then clone this repository to yolov8 folder and  train a yolov8 network with the commands below.
 
 ```
 # Clone yolov8 repo and install requirements.txt
@@ -32,7 +32,7 @@ pip install -r requirements.txt  # install
 
 ```
 # Clone this repository to yolov8 folder
-git clone https://github.com/LforikC/PG-YOLO-Dataset.
+git clone https://github.com/ganyang0720/SR-YOLO
 ```
 
 ```
