@@ -1,4 +1,4 @@
-# RS-YOLO-Dataset: Strawberry fruit target detection data set of different ripeness
+# SR-YOLO-Dataset: Strawberry fruit target detection data set of different ripeness
 
  [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
  
